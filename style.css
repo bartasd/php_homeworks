@@ -1,0 +1,15 @@
+main,
+main * {
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 0;
+}
+
+.long {
+  word-wrap: break-word;
+}
+
+.cube {
+  padding: 0;
+  margin: 0;
+}
